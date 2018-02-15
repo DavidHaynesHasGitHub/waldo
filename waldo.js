@@ -14,3 +14,5 @@ function actionWhenFound(num) {
 }
 
 findWaldo(['Alice', 'Bob', 'Waldo', 'Winston'], actionWhenFound);
+
+console.log('this worked on develop')
